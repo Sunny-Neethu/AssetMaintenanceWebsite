@@ -40,7 +40,7 @@ On the main page, there is a navigation bar that offers two options: "New Reques
 To log in, the admin clicks on the "Login" option in the navigation and is asked to enter their name and password. As this is a prototype, the username and password are both "admin." Once logged in, the admin is presented with a dashboard that displays details retrieved from the database. The admin has the ability to view, edit, and delete the maintenance log.
 <br>
 <br>
-<img src="https://github.com/Sunny-Neethu/Sunny-Neethu/blob/main/images/AssetMaintenanceWebsite-dashboard.PNG" height="80%" width="80%" alt="dashboard"/>
+<img src="https://github.com/Sunny-Neethu/Sunny-Neethu/blob/main/images/AssetMaintenance-dashboard.PNG" height="80%" width="80%" alt="dashboard"/>
 
 <h3>How to make the code run ?</h3>
 First, download and extract the code, and then open it in Visual Studio Code. I have already installed all the necessary modules, but based on past experience, you may need to install npm and node modules in order to replicate this. Once you have the code open, navigate to index.html. Then, in the terminal, type "node index.js." This will take you to the link where the results will be displayed.
